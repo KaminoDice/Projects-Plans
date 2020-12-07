@@ -87,18 +87,18 @@
   Hummm...it doesn't matter  
 
 ## Source-Collection
-###  -Easy.LRC:  
+###  - Easy.LRC:  
 ​          Do you know how to search high quality .LRCs of *minority* musics  easily?  
 ​          Do you want to edit your .LRC to more than three Language(Japanese,Chinese & Roma Sound Signal)?  
 ​          I need to find some good LRC database,and design a good editor for *anime* musics.
 
-### -Bit&MagBox:  
+### - Bit&MagBox:  
 ​      Bt **Seacher**/Editor and transform Magnetic Links to BT files
-###  -Get!ThunderVIP:  
+###  - Get!ThunderVIP:  
 ​    These days I find a website that shares VIP accouts of thunder,  
 ​    I want to develope a program to search more Passwords and use them automaticly.
 
-###  -Bili.Down:  
+###  - Bili.Down:  
 
 ​	This is a chrome add-plugin.  
 ​    Maybe I will make it to suppost more websites.
